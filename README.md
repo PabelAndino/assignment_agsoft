@@ -37,3 +37,9 @@ Or
 ```plaintext
 yarn install
 ```
+
+To local execute just type:
+
+```plaintext
+yarn dev
+```
